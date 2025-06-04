@@ -1,0 +1,4 @@
+streamlit
+MetaTrader5
+pandas
+numpy
